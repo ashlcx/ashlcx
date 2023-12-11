@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ashlcx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @ashlcx, Australian 🇦🇺 living in Tallinn, Estonia 🇪🇪
+- Network Engineer by day, random projects by night
 
 <!---
 ashlcx/ashlcx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇪🇪--->
